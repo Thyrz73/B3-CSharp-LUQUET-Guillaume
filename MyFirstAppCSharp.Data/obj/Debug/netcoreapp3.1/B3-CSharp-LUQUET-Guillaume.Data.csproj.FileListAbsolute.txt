@@ -1,0 +1,11 @@
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\bin\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.deps.json
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\bin\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.runtimeconfig.json
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\bin\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.runtimeconfig.dev.json
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\bin\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.dll
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\bin\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.pdb
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\obj\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.AssemblyInfoInputs.cache
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\obj\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.AssemblyInfo.cs
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\obj\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.csproj.CoreCompileInputs.cache
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\obj\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.dll
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\obj\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.pdb
+E:\Documents\Cours\Epsi\.NET\Exam\Rub\projet-.net\MyFirstAppCSharp.Data\obj\Debug\netcoreapp3.1\B3-CSharp-LUQUET-Guillaume.Data.genruntimeconfig.cache

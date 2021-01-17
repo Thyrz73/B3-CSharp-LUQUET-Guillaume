@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B3-CSharp-LUQUET-Guillaume.Web", "MyFirstAppCSharp.Web\B3-CSharp-LUQUET-Guillaume.Web.csproj", "{70E224F3-4F49-46C8-9573-2B5BB2A32F25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B3-CSharp-LUQUET-Guillaume.Service", "RestaurantService\B3-CSharp-LUQUET-Guillaume.Service.csproj", "{9448A397-95BD-437C-B001-C0950AAFA79C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B3-CSharp-LUQUET-Guillaume.Data", "MyFirstAppCSharp.Data\B3-CSharp-LUQUET-Guillaume.Data.csproj", "{8A11B222-A59B-46C8-BD3E-E0A4B44A7507}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstAppCSharp.Data.Test", "MyFirstAppCSharp.Data.Test\MyFirstAppCSharp.Data.Test.csproj", "{5E3067B5-AFAF-4E64-ABB5-9000CD779385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFristAppCSharp.Service.Test", "MyFristAppCSharp.Service.Test\MyFristAppCSharp.Service.Test.csproj", "{9141D41B-C60B-4C81-9229-C5330558D344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E224F3-4F49-46C8-9573-2B5BB2A32F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E224F3-4F49-46C8-9573-2B5BB2A32F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E224F3-4F49-46C8-9573-2B5BB2A32F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E224F3-4F49-46C8-9573-2B5BB2A32F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9448A397-95BD-437C-B001-C0950AAFA79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9448A397-95BD-437C-B001-C0950AAFA79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9448A397-95BD-437C-B001-C0950AAFA79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9448A397-95BD-437C-B001-C0950AAFA79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A11B222-A59B-46C8-BD3E-E0A4B44A7507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A11B222-A59B-46C8-BD3E-E0A4B44A7507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A11B222-A59B-46C8-BD3E-E0A4B44A7507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A11B222-A59B-46C8-BD3E-E0A4B44A7507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3067B5-AFAF-4E64-ABB5-9000CD779385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3067B5-AFAF-4E64-ABB5-9000CD779385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3067B5-AFAF-4E64-ABB5-9000CD779385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3067B5-AFAF-4E64-ABB5-9000CD779385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9141D41B-C60B-4C81-9229-C5330558D344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9141D41B-C60B-4C81-9229-C5330558D344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9141D41B-C60B-4C81-9229-C5330558D344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9141D41B-C60B-4C81-9229-C5330558D344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5972F88-1C93-4754-91AC-4979440387F0}
+	EndGlobalSection
+EndGlobal
